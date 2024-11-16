@@ -11,7 +11,5 @@
 
 ↓↓↓ Voliteľné rozšírené zadanie ↓↓↓
 
-Pridal som potvrdenie pri odstraňovaní úloh,
- aby sa predišlo nechcenému výmazu. 
- Tiež som pridal možnosť upravovať existujúce úlohy, 
- takže užívateľ nemusí mazať a vytvárať nové, ak chce niečo zmeniť.
+Pridal som potvrdenie pri odstraňovaní úloh, aby sa predišlo nechcenému výmazu. 
+Tiež som pridal možnosť upravovať existujúce úlohy, takže užívateľ nemusí mazať a vytvárať nové, ak chce niečo zmeniť.
