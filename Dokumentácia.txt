@@ -1,3 +1,17 @@
-Navyše som pridal to že som dal hlášku o tom či chce užívateľ skutočne odstrániť úlohu. 
-Je to kvôli tomu aby sa zabránilo výmazom ktoré neboli úmyselné.
-Pridal som aj možnosť si úlohy upraviť aby užívateľ nemusel kvôli tomu, že chce niečo v úlohe zmeniť, mazať a vytvárať novú úlohu.
+↓↓↓ Spôsob spustenia ↓↓↓
+
+1. Skopírovať HTTPS URL https://github.com/Samuel-Skoupil/to-do.git
+2. Otvoriť terminál a zadať príkaz git clone https://github.com/Samuel-Skoupil/to-do.git
+3. Presunutie sa do projektu pomocou príkazu cd to-do
+4. Inštlácia knižníc pomocou príkazu npm install
+5. Spustenie projektu pomocou príkazu npm star
+
+
+
+
+↓↓↓ Voliteľné rozšírené zadanie ↓↓↓
+
+Pridal som potvrdenie pri odstraňovaní úloh,
+ aby sa predišlo nechcenému výmazu. 
+ Tiež som pridal možnosť upravovať existujúce úlohy, 
+ takže užívateľ nemusí mazať a vytvárať nové, ak chce niečo zmeniť.
