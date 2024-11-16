@@ -29,3 +29,7 @@ export interface RenderTasksProps {
   confirmDeleteTask: (task: Task) => void;
   startEditTask: (task: Task) => void;
 }
+
+export interface HeaderProps {
+  onAddTaskClick: () => void;
+}

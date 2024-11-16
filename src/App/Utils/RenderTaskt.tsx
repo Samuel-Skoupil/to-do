@@ -1,5 +1,5 @@
 import React from "react";
-import { RenderTasksProps, Task } from "../Utils/types";
+import { RenderTasksProps } from "../Utils/types";
 
 const RenderTasks: React.FC<RenderTasksProps> = ({
   tasks,

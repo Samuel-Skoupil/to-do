@@ -1,8 +1,5 @@
 import React from "react";
-
-interface HeaderProps {
-  onAddTaskClick: () => void;
-}
+import { HeaderProps } from "../Utils/types";
 
 const Header: React.FC<HeaderProps> = ({ onAddTaskClick }) => {
   return (
